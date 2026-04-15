@@ -16,7 +16,7 @@ pkg install git python -y
  تثبيت الأدوات الأساسية (Git & Python)
 تحتاج لهذه الأدوات لتحميل الملفات وتشغيل لغة البرمجة التي بُنيت بها الأداة.
 ```bash
-git clone https://github.com/ossamaelbouhali794-cpu/HAK/tree/main
+git clone https://github.com/ossamaelbouhali794-cpu/HAK
 
 ```
 
@@ -38,3 +38,18 @@ pip install colorama
 الأمر النهائي لبدء تشغيل البرنامج.
 ```bash
 python hak.py
+
+```
+حساب لتسجيل الدخول بالأدات 😉
+
+الأول ↓
+```bash
+7777
+```
+
+التاني ↓
+
+```bash
+0000
+```
+ ΞΞ⚠️ أنا غير مسؤول عن استخدام غير لائق ⚠️ΞΞ
